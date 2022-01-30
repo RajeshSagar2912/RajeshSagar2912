@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeshSagar2912
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in cybersecurity and Bugbounty.
 - 🌱 I’m currently learning ethical hacking.
 
 
